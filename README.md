@@ -1,7 +1,7 @@
 # Python-basic
 I made a list of all the basic operations of python program. 
 The file contains,
-1. #### <a name="comment">Comment</a>
+1. #### [Comment](#comment)
 1. #### data type
 1. #### arithmetic operators
 1. #### assignment operators
@@ -33,7 +33,7 @@ Example:
 python text_file.py
 ```
 
-### [Comment](#comment)
+### <a name="comment">Comment</a>
 
 Comments starts with a #, and Python will ignore them.
 
