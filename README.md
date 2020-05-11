@@ -33,7 +33,7 @@ Example:
 python text_file.py
 ```
 
-### Comment
+### (Comment)Comment
 
 Comments starts with a #, and Python will ignore them.
 
