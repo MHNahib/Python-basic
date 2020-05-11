@@ -1,7 +1,7 @@
 # Python-basic
 I made a list of all the basic operations of python program. 
 The file contains,
-1. #### comment
+1. #### Comment
 1. #### data type
 1. #### arithmetic operators
 1. #### assignment operators
@@ -16,7 +16,7 @@ The file contains,
 1. #### list
 
 
-## Before starting
+### Before starting
 
 The extension of python is '.py'. 
 Example:
@@ -31,4 +31,13 @@ To run a python file you need to open cmd on the same directory of the file and 
 Example:
 ```
 python text_file.py
+```
+
+### [link](#Comment)Comment
+
+Comments starts with a #, and Python will ignore them.
+
+Example:
+```python
+# This is a comment.
 ```
