@@ -385,7 +385,7 @@ List.extend(["I", "am", "in", "a", "list"])
 print(List)
 ```
 
-*remove():
+* remove():
     remove() method removes the specified item (not index) from the list and shows error if the item is not exists.
 
 Example:
