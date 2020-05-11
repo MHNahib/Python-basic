@@ -86,8 +86,8 @@ Binary Types:	bytes, bytearray, memoryview
 |!= |Not equal|               x!=y|
 |>  |Greater than|            x>y|
 |<  |Less than     |          x<y|
-|<= ||Less than equal|         x<=y|
-|>= ||Greater than equal|      x>=y|
+|<= |Less than equal|         x<=y|
+|>= |Greater than equal|      x>=y|
 
 
 ### Logical operator
